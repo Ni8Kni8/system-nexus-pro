@@ -18,20 +18,18 @@
 * 📦 **Software Inventory** — Lists installed non-Microsoft apps
 
 ---
-<!--
-## 📸 Output Preview
-
-*(To be added here later)*
-
----
--->
-
 ## 📥 Download
 
 Get the latest version of **System Nexus Pro** here:  
 👉 [Download](https://github.com/Ni8Kni8/system-nexus-pro/releases/latest/download/SystemNexusPro.exe)
 
 ---
+## 📸 Output Preview
+
+👉 [System Nexus Pro Report](SystemReport-Screenshot.png)
+
+---
+
 
 ## 🛠 Usage
 
