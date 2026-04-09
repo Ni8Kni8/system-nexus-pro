@@ -26,10 +26,10 @@
 ---
 -->
 
-## 🚀 Download
+## 📥 Download
 
-👉 Go to the **Releases** section and download the latest version of
-**System Nexus Pro (.exe)**
+Get the latest version of **System Nexus Pro** here:  
+👉 [Download](https://github.com/Ni8Kni8/system-nexus-pro/releases/latest/download/SystemNexusPro.exe)
 
 ---
 
